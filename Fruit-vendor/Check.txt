@@ -1,0 +1,5 @@
+You bought : 
+2 Apples with the total of 4
+2 Oranges with the total of 6
+0 Watermelons with the total of 0
+0x486a08Your total comes to : 10 $
